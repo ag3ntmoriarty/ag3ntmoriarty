@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Himanshu</h1>
-<h3 align="center">DL Researcher | Robotics Enthusiast</h3>
+<h3 align="center">DL & Robotics Rearcher</h3>
 I’m a Computer Science graduate focusing on Robotics, Machine Learning, and Computer Vision.
 
 Currently, I’m working at IIT Bombay under the guidance of Prof. Ganesh Ramakrishnan, Prof. Rohit Saluja & Prof. Jaideep Joshi developing cutting-edge Computer Vision algorithms for drones. My fascination with flight and the ability to access previously unreachable areas drives my passion for drone technology and autonomous navigation using techniques like SLAM.
 
-Combining my computer science background with hardware-driven applications led me to robotics. I'm aiming to pursue my PhD's in Robotics to solve real-world challenges and push the boundaries of innovation in this field.
+Combining my computer science background with hardware-driven applications led me to robotics. I'm aiming to pursue my Masters and PhD in Robotics to solve real-world challenges and push the boundaries of innovation in this field.
 
-I also regularly write blogs about my current projects and intriguing topics related to robotics. I encourage you to give them a read [HERE](https://agntgalahad.github.io/blogs/)!!
+Check out my blogs and projects here: [https://ag3ntmoriarty.github.io/](https://ag3ntmoriarty.github.io)
 
-- 🌟 **Current Projects**: Drones equipped with LiDAR for SLAM.
+- 🌟 **Current Projects**: UAV for active perception and exploration, Monte Carlo Tree Search based Chess AI.
 - 📫 How to reach me **himanshupatil829@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/agnt_galahad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="agnt_galahad" height="30" width="40" /></a>
+<a href="https://twitter.com/ag3ntmoriarty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="agnt_galahad" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/himanshupatil829" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshupatil829" height="30" width="40" /></a>
 </p>
 
