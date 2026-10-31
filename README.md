@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himanshu</h1>
-<h3 align="center">DL & Robotics Rearcher</h3>
+<h3 align="center">DL & Robotics Researcher</h3>
 I’m a Computer Science graduate focusing on Robotics, Machine Learning, and Computer Vision.
 
 Currently, I’m working at IIT Bombay under the guidance of Prof. Ganesh Ramakrishnan, Prof. Rohit Saluja & Prof. Jaideep Joshi developing cutting-edge Computer Vision algorithms for drones. My fascination with flight and the ability to access previously unreachable areas drives my passion for drone technology and autonomous navigation using techniques like SLAM.
